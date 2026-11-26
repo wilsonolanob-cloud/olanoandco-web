@@ -1,0 +1,4 @@
+# Los archivos internos (empiezan por "_") no se pueden abrir desde el navegador
+<FilesMatch "^_">
+  Require all denied
+</FilesMatch>

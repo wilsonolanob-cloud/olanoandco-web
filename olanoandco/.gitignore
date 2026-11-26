@@ -1,0 +1,6 @@
+# Secretos y datos privados — nunca al repositorio
+private/.env
+private/data/
+*.sqlite
+*.sqlite-*
+.DS_Store

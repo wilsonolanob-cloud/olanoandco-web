@@ -1,0 +1,9 @@
+{
+  "name": "OlanoandCo",
+  "short_name": "OlanoandCo",
+  "icons": [{ "src": "assets/brand/icon-512.png", "sizes": "512x512", "type": "image/png" }],
+  "theme_color": "#0B1F3A",
+  "background_color": "#0B1F3A",
+  "display": "standalone",
+  "start_url": "/"
+}

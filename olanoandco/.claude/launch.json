@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "olanoandco",
+      "runtimeExecutable": "/Users/wilsonolano/.local/share/olanoandco-tools/dl/php",
+      "runtimeArgs": ["-S", "127.0.0.1:8088", "-t", "public_html", "tools/router.php"],
+      "port": 8088
+    }
+  ]
+}
